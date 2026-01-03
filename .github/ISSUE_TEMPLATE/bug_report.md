@@ -1,7 +1,10 @@
 ---
 name: Bug report
 about: Find a bug? Report to us!
-lables: bug
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 # Issue Report
@@ -11,4 +14,4 @@ lables: bug
 **Operation**:(Write this) \
 **Expectation**:(Write this) \
 **Fact**:(Write this) \
-*Attachment*（Optional): 
+*Attachment*（Optional):
